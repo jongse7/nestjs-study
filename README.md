@@ -1,1 +1,1 @@
-# nestjs-study
+# Repository for studying NestJS
