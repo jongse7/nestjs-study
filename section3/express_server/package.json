@@ -1,0 +1,7 @@
+{
+  "name": "section3",
+  "packageManager": "yarn@4.9.2+sha224.b8e0b161ae590950fbda696e6f3ca071362768e5280c5fbfdadf064b",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
